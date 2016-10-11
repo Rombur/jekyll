@@ -12,4 +12,4 @@ DTK 2.0 has been released
 ___
 
 The master branch of DTK is under rapid development. If you need a stable API,
-you should use DTK 2.0 that can be downloaded using the link above.
+you should use DTK 2.0. DTK 2.0 can be downloaded using the link above.
