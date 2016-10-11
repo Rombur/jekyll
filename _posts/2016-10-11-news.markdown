@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "DTK 2.0"
+date:   2016-10-10 
+description: DTK 2.0 has been released
+categories:
+permalink: news_1
+---
+
+DTK 2.0 has been released
+
+___
+
+The master branch of DTK is under rapid development. If you need a stable API,
+you should use DTK 2.0 that can be downloaded using the link above.
