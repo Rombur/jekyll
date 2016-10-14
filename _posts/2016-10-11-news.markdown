@@ -2,14 +2,16 @@
 layout: post
 title:  "DTK 2.0"
 date:   2016-10-10 
-description: DTK 2.0 has been released
+description: DTK 2.0 Coming soon
 categories:
 permalink: news_1
 ---
 
-DTK 2.0 has been released
+DTK 2.0 Coming soon
 
 ___
 
-The master branch of DTK is under rapid development. If you need a stable API,
-you should use DTK 2.0. DTK 2.0 can be downloaded using the link above.
+Version 2.0 of DTK will be released in the near future. Look for a post soon on
+release details. Once we released we will be actively starting work on version
+3.0 of the library which will focus on performance portability and support for
+GPUs and other HPC accelerators.
