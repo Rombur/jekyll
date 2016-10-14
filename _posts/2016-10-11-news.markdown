@@ -2,12 +2,12 @@
 layout: post
 title:  "DTK 2.0 is coming soon"
 date:   2016-10-10 
-description: DTK 2.0 Coming soon
+description: DTK 2.0 is Coming soon
 categories:
 permalink: news_1
 ---
 
-DTK 2.0 Coming soon
+DTK 2.0 is Coming soon
 
 ___
 
